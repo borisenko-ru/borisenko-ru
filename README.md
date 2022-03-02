@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**borisenko-ru/borisenko-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I?
+- ⛏️ I`m petrotechnical expert
+- 🌍 I'm co-founder [@spetyumen](https://www.instagram.com/spetyumen/)
+- 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
+- 🔭 I’m currently working on signal processing
+- 🌱 I’m currently deep learning
+- 🏃🏽‍♂️ I'm sport enthusiast
+- 🎨 I'm art lover
+- 🗺 I'm traveler
+- 📫 How to reach me:
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384088.png" width="20" />](https://www.linkedin.com/in/borisenkoru/) 
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1051/1051360.png" width="20" />](https://www.facebook.com/borisenko.ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="20" />](https://www.instagram.com/borisenko_ru/)
+[<img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111812.png" width="20" />](https://t.me/borisenko_ru)
+- ⚡ Fun fact: Avocados are a fruit, not a vegetable.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...and occasionally I shoot good shots like this (Koh Lipe, Thailand)
+<img src="https://github.com/borisenko-ru/borisenko-ru/blob/main/header.jpg">

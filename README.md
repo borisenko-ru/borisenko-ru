@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Who am I?
-- ⛏️ I`m petrotechnical expert and data interpretation development engineer [@schlumberger](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
+- ⛏️ I`m petrotechnical expert and data interpretation development engineer [@slb](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
 - 🌍 I'm co-founder [@spetyumen](https://www.instagram.com/spetyumen/)
 - 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
 - 🔭 I’m currently working on signal processing

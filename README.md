@@ -5,7 +5,7 @@ Who am I?
 - 🌍 I'm co-founder [@spetyumen](https://www.instagram.com/spetyumen/)
 - 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
 - 🔭 I’m currently working on signal processing
-- 🌱 I’m currently deep learning
+- 🌱 I’m currently doing system analysis
 - 🏃🏽‍♂️ I'm sport enthusiast
 - 🎨 I'm art lover
 - 🗺 I'm traveler

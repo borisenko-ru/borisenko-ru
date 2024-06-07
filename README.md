@@ -2,7 +2,7 @@
 
 Who am I?
 - ⛏️ I`m petrotechnical expert and data interpretation development engineer [@slb](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
-- 🌍 I'm co-founder [@spetyumen](https://www.instagram.com/spetyumen/)
+- 🌍 I'm regional director [@sperussiacaspian](https://www.instagram.com/sperussiacaspian/)
 - 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
 - 🔭 I’m currently working on signal processing
 - 🌱 I’m currently doing system analysis
@@ -21,4 +21,4 @@ Who am I?
 
 Alexey Borisenko \
 Digital Petroleum Engineer \
-2023
+2024

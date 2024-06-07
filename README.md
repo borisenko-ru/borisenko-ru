@@ -2,7 +2,7 @@
 
 Who am I?
 - ⛏️ I`m petrotechnical expert and data interpretation development engineer [@slb](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
-- 🌍 I'm regional director [@sperussiacaspian](https://www.instagram.com/sperussiacaspian/)
+- 🌍 I'm regional director [@sperussiacaspian](https://t.me/s/sperussiacaspian/)
 - 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
 - 🔭 I’m currently working on signal processing
 - 🌱 I’m currently doing system analysis

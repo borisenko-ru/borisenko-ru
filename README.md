@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Who am I?
-- ⛏️ I`m petrotechnical expert and data interpretation development engineer [@slb](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
-- 🌍 I'm regional director [@sperussiacaspian](https://t.me/s/sperussiacaspian/)
+- ⛏️ I`m petrotechnical expert and senior data interpretation development engineer [@slb](https://www.slb.com/completions/stimulation/stimulation-optimization/wellwatcher-stim-service)
+- 🌍 I'm 2023-2026 SPE Regional Director [@sperussiacaspian](https://t.me/s/sperussiacaspian/)
 - 🎓 I'm data scientist [@hse_ru](https://cs.hse.ru/en/)
 - 🔭 I’m currently working on signal processing
 - 🌱 I’m currently doing system analysis
@@ -21,4 +21,4 @@ Who am I?
 
 Alexey Borisenko \
 Digital Petroleum Engineer \
-2025
+2026
